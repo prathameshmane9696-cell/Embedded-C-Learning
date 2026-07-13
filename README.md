@@ -81,10 +81,6 @@ As an Electronics and Telecommunication Engineering student interested in Embedd
 ---
 
 ## Future Topics
-
-- Circular Buffer
-- Dynamic Memory Allocation
-- Linked List
 - Stack
 - Queue
 - UART Driver
