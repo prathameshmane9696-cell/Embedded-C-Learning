@@ -26,8 +26,10 @@ The next data structures to be added to this folder are:
 
 * [ ] **Stack (LIFO - Last In First Out)**
   * Static implementation using arrays (highly optimized for embedded systems).
+  * Stack_Arr.c includes the implementation of stack using array
   * Dynamic implementation using linked lists.
   * Operations: `push()`, `pop()`, `peek()`, `isEmpty()`, `isFull()`.
+   
 * [ ] **Queue (FIFO - First In First Out)**
   * Circular Queue / Ring Buffer implementation (crucial for UART/SPI peripheral drivers).
   * Operations: `enqueue()`, `dequeue()`, `isEmpty()`, `isFull()`.
