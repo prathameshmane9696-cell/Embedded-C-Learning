@@ -1,4 +1,4 @@
-# Data Structures in Embedded C
+# Data Structures in C
 
 This repository contains efficient, low-level data structure implementations written in C, tailored for embedded systems.
 
@@ -24,6 +24,7 @@ This implementation uses dynamic memory allocation (`malloc`). In ultra-low-powe
 * [ ] **Stack (LIFO - Last In First Out)**
   * Static implementation using arrays (highly optimized for embedded systems).
   * Stack_Arr.c includes the implementation of stack using array
+  * Stack_LL.c incluedes the implementation of stack using Linked List
   * Dynamic implementation using linked lists.
   * Operations: `push()`, `pop()`, `peek()`, `isEmpty()`, `isFull()`.
      
