@@ -27,13 +27,11 @@ This implementation uses dynamic memory allocation (`malloc`). In ultra-low-powe
   * Stack_LL.c incluedes the implementation of stack using Linked List
   * Dynamic implementation using linked lists.
   * Operations: `push()`, `pop()`, `peek()`, `isEmpty()`, `isFull()`.
-     
-  * 
-   ## 2. Upcoming Implementation Roadmap
-The next data structures to be added to this folder are:
+
 * [ ] **Queue (FIFO - First In First Out)**
   * Circular Queue / Ring Buffer implementation (crucial for UART/SPI peripheral drivers).
   * Operations: `enqueue()`, `dequeue()`, `isEmpty()`, `isFull()`.
+  * the file Queue_Arr.c included implementation using array.
 
 ---
 
